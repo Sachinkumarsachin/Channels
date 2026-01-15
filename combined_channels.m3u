@@ -1,0 +1,665 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-language="Kannada" group-title="Kannada",Sonic Kannada
+http://servertvhub.site/jio/app/ts_live_1243.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-language="Kannada" group-title="Kannada",Nick Kannada
+http://servertvhub.site/jio/app/ts_live_1244.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-language="Kannada" group-title="Kannada",Aastha tv kannada
+http://servertvhub.site/jio/app/ts_live_1256.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-language="Kannada" group-title="Kannada",colors kannada
+http://servertvhub.site/jio/app/ts_live_1370.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-language="Kannada" group-title="Kannada",news 1 kannada
+http://servertvhub.site/jio/app/ts_live_1555.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-language="Kannada" group-title="Kannada",Colors kannada Cinema
+http://servertvhub.site/jio/app/ts_live_1632.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-language="Kannada" group-title="Kannada",Public movies kannada
+http://servertvhub.site/jio/app/ts_live_1633.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-language="Kannada" group-title="Kannada",Siri kannada Alltime
+http://servertvhub.site/jio/app/ts_live_1634.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-language="Kannada" group-title="Kannada",Nakshathra Kannada marketing
+http://servertvhub.site/jio/app/ts_live_2253.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-language="Kannada" group-title="Kannada",Zee kannada news
+http://servertvhub.site/jio/app/ts_live_2742.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-language="Kannada" group-title="Kannada",Power news kannada
+http://servertvhub.site/jio/app/ts_live_2743.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-language="Kannada" group-title="Kannada",POGO Kannada
+http://servertvhub.site/jio/app/ts_live_3032.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-language="Kannada" group-title="Kannada",Cartoon network Kannada
+http://servertvhub.site/jio/app/ts_live_3035.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-language="Kannada" group-title="Kannada",Namma Bangalore Kannada
+http://servertvhub.site/jio/app/ts_live_3237.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-language="Kannada" group-title="Kannada",Discovery Kannada
+http://servertvhub.site/jio/app/ts_live_3429.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-language="Kannada" group-title="Kannada",Discovery Kannada
+http://servertvhub.site/jio/app/ts_live_3430.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-language="Kannada" group-title="Kannada",Discovery Kannada HD
+http://servertvhub.site/jio/app/ts_live_3432.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-language="Kannada" group-title="Kannada",News Beat Kannada
+http://servertvhub.site/jio/app/ts_live_3461.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-language="Kannada" group-title="Kannada",Gurantee News Kannada
+http://servertvhub.site/jio/app/ts_live_3464.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-language="Kannada" group-title="Kannada",Chinu tv kannada
+http://servertvhub.site/jio/app/ts_live_555.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-language="Kannada" group-title="Kannada",TV9 Kannada
+http://servertvhub.site/jio/app/ts_live_619.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-language="Kannada" group-title="Kannada",Asianet news Suvarna kannada
+http://servertvhub.site/jio/app/ts_live_626.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-language="Kannada" group-title="Kannada",Raj news Kannada
+http://servertvhub.site/jio/app/ts_live_651.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-language="Kannada" group-title="Kannada",News kannada 18
+http://servertvhub.site/jio/app/ts_live_653.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-language="Kannada" group-title="Kannada",Udaya movies
+http://servertvhub.site/jio/app/ts_live_678.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-language="Kannada" group-title="Kannada",Chandhana Karnataka kannada
+http://servertvhub.site/jio/app/ts_live_713.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-language="Kannada" group-title="Kannada",Udaya comedy
+http://servertvhub.site/jio/app/ts_live_733.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-language="Kannada" group-title="Kannada",Raj Music kannada
+http://servertvhub.site/jio/app/ts_live_743.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-language="Kannada" group-title="Kannada",Udaya music
+http://servertvhub.site/jio/app/ts_live_744.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-language="Kannada" group-title="Kannada",Colors kannada
+http://servertvhub.site/jio/app/ts_live_757.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-language="Kannada" group-title="Kannada",Public music kannada
+http://servertvhub.site/jio/app/ts_live_773.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-language="Kannada" group-title="Kannada",Public Tv kannada
+http://servertvhub.site/jio/app/ts_live_778.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-language="Kannada" group-title="Kannada",Colors Super kannada
+http://servertvhub.site/jio/app/ts_live_785.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-language="Kannada" group-title="Kannada",Udaya HD
+http://servertvhub.site/jio/app/ts_live_901.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-language="Kannada" group-title="Kannada",Republic kannada news
+http://servertvhub.site/jio/app/ts_live_923.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-language="Kannada" group-title="Kannada",TV5 Kannada
+http://servertvhub.site/jio/app/ts_live_956.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="AyushTV.in@SD",Ayush TV kannada (360p) [Not 24/7]
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="ColorsKannada.in@HD",Colors Kannada (1080p)
+http://103.140.254.2:3500/live/757.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="RajMusixKannada.in@SD",Raj Musix Kannada (576p) [Not 24/7]
+http://103.140.254.2:3500/live/743.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="RajNewsKannada.in@SD",Raj News Kannada (576p) [Not 24/7]
+http://103.140.254.2:3500/live/651.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="RepublicKannada.in@SD",Republic Kannada (1080p)
+https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
+#EXTINF:-1 tvg-chno="42" tvg-id="TV5Kannada.in@SD",TV5 Kannada (576p)
+https://cdn-3.pishow.tv/live/1526/master.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-id="TV9Kannada.in@SD",TV9 Kannada (720p) [Not 24/7]
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-id="ZeeKannada.in@HD",Zee Kannada HD (1080p)
+http://103.167.255.18:8085/play/a0n4/index.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="ZeeKannadaNews.in@SD",Zee Kannada News (720p)
+https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-language="Hindi" group-title="Hindi",PTC Chakde hindi music
+http://servertvhub.site/jio/app/ts_live_1172.m3u8
+#EXTINF:-1 tvg-chno="47" tvg-language="Hindi" group-title="Hindi",Zee cafe HD Hindi
+http://servertvhub.site/jio/app/ts_live_1319.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-language="Hindi" group-title="Hindi",&flix hd Hindi
+http://servertvhub.site/jio/app/ts_live_1322.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-language="Hindi" group-title="Hindi",History tv hindi
+http://servertvhub.site/jio/app/ts_live_1471.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-language="Hindi" group-title="Hindi",Colors cineplx HD hindi
+http://servertvhub.site/jio/app/ts_live_1477.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-language="Hindi" group-title="Hindi",Aastha hindi
+http://servertvhub.site/jio/app/ts_live_175.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-language="Hindi" group-title="Hindi",Green chillies hindi
+http://servertvhub.site/jio/app/ts_live_1834.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-language="Hindi" group-title="Hindi",CNBC Hindi
+http://servertvhub.site/jio/app/ts_live_190.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-language="Hindi" group-title="Hindi",Star sports2 HD Hindi
+http://servertvhub.site/jio/app/ts_live_1984.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-language="Hindi" group-title="Hindi",Star sports 2 hindi
+http://servertvhub.site/jio/app/ts_live_1985.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-language="Hindi" group-title="Hindi",Star sports hindi
+http://servertvhub.site/jio/app/ts_live_1998.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-language="Hindi" group-title="Hindi",National Hindi
+http://servertvhub.site/jio/app/ts_live_202.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-language="Hindi" group-title="Hindi",DD news hindi
+http://servertvhub.site/jio/app/ts_live_203.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-language="Hindi" group-title="Hindi",Making of movie channel hindi
+http://servertvhub.site/jio/app/ts_live_2064.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-language="Hindi" group-title="Hindi",India tv hindi news
+http://servertvhub.site/jio/app/ts_live_235.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-language="Hindi" group-title="Hindi",MTV hindi
+http://servertvhub.site/jio/app/ts_live_248.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-language="Hindi" group-title="Hindi",NDTV india hindi
+http://servertvhub.site/jio/app/ts_live_258.m3u8
+#EXTINF:-1 tvg-chno="63" tvg-language="Hindi" group-title="Hindi",Yrf hindi music
+http://servertvhub.site/jio/app/ts_live_2753.m3u8
+#EXTINF:-1 tvg-chno="64" tvg-language="Hindi" group-title="Hindi",Zee zest HD hindi
+http://servertvhub.site/jio/app/ts_live_2757.m3u8
+#EXTINF:-1 tvg-chno="65" tvg-language="Hindi" group-title="Hindi",Cartoon Hindi
+http://servertvhub.site/jio/app/ts_live_2774.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-language="Hindi" group-title="Hindi",Shanskar Hindi
+http://servertvhub.site/jio/app/ts_live_288.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-language="Hindi" group-title="Hindi",Humgama Bollywood OTT India fest hindi
+http://servertvhub.site/jio/app/ts_live_3028.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-language="Hindi" group-title="Hindi",Gujarath Wild TV Hindi
+http://servertvhub.site/jio/app/ts_live_3314.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-language="Hindi" group-title="Hindi",Gubbare Hindi cartoon
+http://servertvhub.site/jio/app/ts_live_3385.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-language="Hindi" group-title="Hindi",Sony Max1 hindi
+http://servertvhub.site/jio/app/ts_live_3418.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-language="Hindi" group-title="Hindi",Sony Yay cartoon Hindi
+http://servertvhub.site/jio/app/ts_live_3420.m3u8
+#EXTINF:-1 tvg-chno="72" tvg-language="Hindi" group-title="Hindi",Sony Yay cartoon Hindi
+http://servertvhub.site/jio/app/ts_live_3423.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-language="Hindi" group-title="Hindi",Sony Yay cartoon Hindi
+http://servertvhub.site/jio/app/ts_live_3424.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-language="Hindi" group-title="Hindi",Disney kids hindi
+http://servertvhub.site/jio/app/ts_live_3433.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-language="Hindi" group-title="Hindi",ID HD Hindi
+http://servertvhub.site/jio/app/ts_live_3434.m3u8
+#EXTINF:-1 tvg-chno="76" tvg-language="Hindi" group-title="Hindi",ID HD Hindi
+http://servertvhub.site/jio/app/ts_live_3435.m3u8
+#EXTINF:-1 tvg-chno="77" tvg-language="Hindi" group-title="Hindi",Disney kids hindi
+http://servertvhub.site/jio/app/ts_live_3447.m3u8
+#EXTINF:-1 tvg-chno="78" tvg-language="Hindi" group-title="Hindi",Disney kids hindi
+http://servertvhub.site/jio/app/ts_live_3448.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-language="Hindi" group-title="Hindi",Cartoon netwok HD+ Hindi
+http://servertvhub.site/jio/app/ts_live_3455.m3u8
+#EXTINF:-1 tvg-chno="80" tvg-language="Hindi" group-title="Hindi",Cartoon netwok HD+ Hindi
+http://servertvhub.site/jio/app/ts_live_3456.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-language="Hindi" group-title="Hindi",Cartoon netwok HD+ Hindi
+http://servertvhub.site/jio/app/ts_live_3457.m3u8
+#EXTINF:-1 tvg-chno="82" tvg-language="Hindi" group-title="Hindi",TLC HD Hindi
+http://servertvhub.site/jio/app/ts_live_3458.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-language="Hindi" group-title="Hindi",Gram sandhesh hindi tradidtinal
+http://servertvhub.site/jio/app/ts_live_466.m3u8
+#EXTINF:-1 tvg-chno="84" tvg-language="Hindi" group-title="Hindi",&TV hD hindi
+http://servertvhub.site/jio/app/ts_live_472.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-language="Hindi" group-title="Hindi",Colors cineplex  hindi
+http://servertvhub.site/jio/app/ts_live_482.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-language="Hindi" group-title="Hindi",Bhojpuri Cinema
+http://servertvhub.site/jio/app/ts_live_486.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-language="Hindi" group-title="Hindi",CNBC Bhojpuri
+http://servertvhub.site/jio/app/ts_live_490.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-language="Hindi" group-title="Hindi",Mirror now Hindi news
+http://servertvhub.site/jio/app/ts_live_491.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-language="Hindi" group-title="Hindi",India Today Hindi News
+http://servertvhub.site/jio/app/ts_live_493.m3u8
+#EXTINF:-1 tvg-chno="90" tvg-language="Hindi" group-title="Hindi",india Thanja Hindi news
+http://servertvhub.site/jio/app/ts_live_498.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-language="Hindi" group-title="Hindi",News nation hindi
+http://servertvhub.site/jio/app/ts_live_499.m3u8
+#EXTINF:-1 tvg-chno="92" tvg-language="Hindi" group-title="Hindi",News 24 hindi
+http://servertvhub.site/jio/app/ts_live_501.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-language="Hindi" group-title="Hindi",GNT news hindi
+http://servertvhub.site/jio/app/ts_live_502.m3u8
+#EXTINF:-1 tvg-chno="94" tvg-language="Hindi" group-title="Hindi",Zee News hindi
+http://servertvhub.site/jio/app/ts_live_504.m3u8
+#EXTINF:-1 tvg-chno="95" tvg-language="Hindi" group-title="Hindi",VIP News hindi
+http://servertvhub.site/jio/app/ts_live_510.m3u8
+#EXTINF:-1 tvg-chno="96" tvg-language="Hindi" group-title="Hindi",M1h news hindi
+http://servertvhub.site/jio/app/ts_live_511.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-language="Hindi" group-title="Hindi",India news hindi 2
+http://servertvhub.site/jio/app/ts_live_512.m3u8
+#EXTINF:-1 tvg-chno="98" tvg-language="Hindi" group-title="Hindi",Raj Parivar hindi
+http://servertvhub.site/jio/app/ts_live_533.m3u8
+#EXTINF:-1 tvg-chno="99" tvg-language="Hindi" group-title="Hindi",Nick jr Hindi
+http://servertvhub.site/jio/app/ts_live_548.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-language="Hindi" group-title="Hindi",Disney Kids Hindi
+http://servertvhub.site/jio/app/ts_live_550.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-language="Hindi" group-title="Hindi",Sony tv Hindi
+http://servertvhub.site/jio/app/ts_live_551.m3u8
+#EXTINF:-1 tvg-chno="102" tvg-language="Hindi" group-title="Hindi",Disney Kids Hindi
+http://servertvhub.site/jio/app/ts_live_554.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-language="Hindi" group-title="Hindi",Pogo hindi
+http://servertvhub.site/jio/app/ts_live_559.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-language="Hindi" group-title="Hindi",Food Hindi
+http://servertvhub.site/jio/app/ts_live_561.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-language="Hindi" group-title="Hindi",History TV Hindi
+http://servertvhub.site/jio/app/ts_live_578.m3u8
+#EXTINF:-1 tvg-chno="106" tvg-language="Hindi" group-title="Hindi",Zinc Music hindi
+http://servertvhub.site/jio/app/ts_live_585.m3u8
+#EXTINF:-1 tvg-chno="107" tvg-language="Hindi" group-title="Hindi",E24 music Hindi
+http://servertvhub.site/jio/app/ts_live_591.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-language="Hindi" group-title="Hindi",Zoom hindi
+http://servertvhub.site/jio/app/ts_live_592.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-language="Hindi" group-title="Hindi",Saadhnana TV hindi
+http://servertvhub.site/jio/app/ts_live_593.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-language="Hindi" group-title="Hindi",MH One Hindi
+http://servertvhub.site/jio/app/ts_live_608.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-language="Hindi" group-title="Hindi",Cartoon network hindi
+http://servertvhub.site/jio/app/ts_live_816.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-language="Hindi" group-title="Hindi",Only music HD Hindi
+http://servertvhub.site/jio/app/ts_live_903.m3u8
+#EXTINF:-1 tvg-chno="113" tvg-language="Hindi" group-title="Hindi",Happy lahori music hindi
+http://servertvhub.site/jio/app/ts_live_946.m3u8
+#EXTINF:-1 tvg-chno="114" tvg-id="HistoryTV18.in@HD",History TV18 HD Hindi (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="SonySportsTen3Hindi.in@SD",Sony Sports Ten 3 Hindi (576p)
+http://103.178.78.151:7505/play/a1pv/index.m3u8
+#EXTINF:-1 tvg-chno="116" tvg-id="StarSports1Hindi.in@HD",Star Sports 1 Hindi HD (1080p)
+http://103.178.78.151:7505/play/a1bw/index.m3u8
+#EXTINF:-1 tvg-chno="117" tvg-id="StarSports1Hindi.in@HD",Star Sports 1 Hindi HD (1080p)
+http://103.167.255.18:8085/play/a0ko/index.m3u8
+#EXTINF:-1 tvg-chno="118" tvg-id="StarSports1Hindi.in@SD",Star Sports 1 Hindi (576p)
+http://103.178.78.151:7505/play/a1n9/index.m3u8
+#EXTINF:-1 tvg-chno="119" tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (1080p)
+http://103.178.78.151:7505/play/a1lw/index.m3u8
+#EXTINF:-1 tvg-chno="120" tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (1080p)
+http://103.167.255.18:8085/play/a0l3/index.m3u8
+#EXTINF:-1 tvg-chno="121" tvg-id="StarSports2Hindi.in@SD",Star Sports 2 Hindi (576p)
+http://103.167.255.18:8085/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-chno="122" tvg-language="English" group-title="English",Cartoon network HD+ English
+http://servertvhub.site/jio/app/ts_live_1080.m3u8
+#EXTINF:-1 tvg-chno="123" tvg-language="English" group-title="English",Cartoon network HD+ English
+http://servertvhub.site/jio/app/ts_live_1081.m3u8
+#EXTINF:-1 tvg-chno="124" tvg-language="English" group-title="English",Colors infinity hD English
+http://servertvhub.site/jio/app/ts_live_1158.m3u8
+#EXTINF:-1 tvg-chno="125" tvg-language="English" group-title="English",Nick HD+ English
+http://servertvhub.site/jio/app/ts_live_1226.m3u8
+#EXTINF:-1 tvg-chno="126" tvg-language="English" group-title="English",CI English
+http://servertvhub.site/jio/app/ts_live_1325.m3u8
+#EXTINF:-1 tvg-chno="127" tvg-language="English" group-title="English",ESG English news
+http://servertvhub.site/jio/app/ts_live_1675.m3u8
+#EXTINF:-1 tvg-chno="128" tvg-language="English" group-title="English",ET Now English news
+http://servertvhub.site/jio/app/ts_live_212.m3u8
+#EXTINF:-1 tvg-chno="129" tvg-language="English" group-title="English",Discovery channel English
+http://servertvhub.site/jio/app/ts_live_242.m3u8
+#EXTINF:-1 tvg-chno="130" tvg-language="English" group-title="English",Wild earth English
+http://servertvhub.site/jio/app/ts_live_2437.m3u8
+#EXTINF:-1 tvg-chno="131" tvg-language="English" group-title="English",KCM English movies
+http://servertvhub.site/jio/app/ts_live_2854.m3u8
+#EXTINF:-1 tvg-chno="132" tvg-language="English" group-title="English",AWSN Sports English
+http://servertvhub.site/jio/app/ts_live_3146.m3u8
+#EXTINF:-1 tvg-chno="133" tvg-language="English" group-title="English",DC English nature channel
+http://servertvhub.site/jio/app/ts_live_3154.m3u8
+#EXTINF:-1 tvg-chno="134" tvg-language="English" group-title="English",Bloombreg TV English news
+http://servertvhub.site/jio/app/ts_live_3155.m3u8
+#EXTINF:-1 tvg-chno="135" tvg-language="English" group-title="English",Gusto TV English food
+http://servertvhub.site/jio/app/ts_live_3213.m3u8
+#EXTINF:-1 tvg-chno="136" tvg-language="English" group-title="English",ISHA English
+http://servertvhub.site/jio/app/ts_live_3233.m3u8
+#EXTINF:-1 tvg-chno="137" tvg-language="English" group-title="English",Docubay English Movies
+http://servertvhub.site/jio/app/ts_live_3402.m3u8
+#EXTINF:-1 tvg-chno="138" tvg-language="English" group-title="English",ID HD English
+http://servertvhub.site/jio/app/ts_live_3452.m3u8
+#EXTINF:-1 tvg-chno="139" tvg-language="English" group-title="English",WION News global English
+http://servertvhub.site/jio/app/ts_live_412.m3u8
+#EXTINF:-1 tvg-chno="140" tvg-language="English" group-title="English",TLC HD English
+http://servertvhub.site/jio/app/ts_live_479.m3u8
+#EXTINF:-1 tvg-chno="141" tvg-language="English" group-title="English",CNN News 18 English news
+http://servertvhub.site/jio/app/ts_live_492.m3u8
+#EXTINF:-1 tvg-chno="142" tvg-language="English" group-title="English",Mogadishu global news English
+http://servertvhub.site/jio/app/ts_live_494.m3u8
+#EXTINF:-1 tvg-chno="143" tvg-language="English" group-title="English",NEWS X Global news English
+http://servertvhub.site/jio/app/ts_live_495.m3u8
+#EXTINF:-1 tvg-chno="144" tvg-language="English" group-title="English",DW News global English
+http://servertvhub.site/jio/app/ts_live_496.m3u8
+#EXTINF:-1 tvg-chno="145" tvg-language="English" group-title="English",Turbo English
+http://servertvhub.site/jio/app/ts_live_541.m3u8
+#EXTINF:-1 tvg-chno="146" tvg-language="English" group-title="English",Nick jr English
+http://servertvhub.site/jio/app/ts_live_544.m3u8
+#EXTINF:-1 tvg-chno="147" tvg-language="English" group-title="English",Good times travel English
+http://servertvhub.site/jio/app/ts_live_560.m3u8
+#EXTINF:-1 tvg-chno="148" tvg-language="English" group-title="English",Travel XP HD English
+http://servertvhub.site/jio/app/ts_live_562.m3u8
+#EXTINF:-1 tvg-chno="149" tvg-language="English" group-title="English",Animal planet English
+http://servertvhub.site/jio/app/ts_live_567.m3u8
+#EXTINF:-1 tvg-chno="150" tvg-language="English" group-title="English",Discovery Science English
+http://servertvhub.site/jio/app/ts_live_568.m3u8
+#EXTINF:-1 tvg-chno="151" tvg-language="English" group-title="English",TLC English
+http://servertvhub.site/jio/app/ts_live_571.m3u8
+#EXTINF:-1 tvg-chno="152" tvg-language="English" group-title="English",TLC English
+http://servertvhub.site/jio/app/ts_live_574.m3u8
+#EXTINF:-1 tvg-chno="153" tvg-language="English" group-title="English",CNA English news
+http://servertvhub.site/jio/app/ts_live_764.m3u8
+#EXTINF:-1 tvg-chno="154" tvg-language="English" group-title="English",Euro newa English
+http://servertvhub.site/jio/app/ts_live_837.m3u8
+#EXTINF:-1 tvg-chno="155" tvg-language="English" group-title="English",Focus France 24
+http://servertvhub.site/jio/app/ts_live_838.m3u8
+#EXTINF:-1 tvg-chno="156" tvg-language="English" group-title="English",Sony BBC Earth HD
+http://servertvhub.site/jio/app/ts_live_852.m3u8
+#EXTINF:-1 tvg-chno="157" tvg-language="English" group-title="English",Euro Sports English
+http://servertvhub.site/jio/app/ts_live_875.m3u8
+#EXTINF:-1 tvg-chno="158" tvg-language="Tamil" group-title="Tamil",Star sports 2 Tamil
+http://servertvhub.site/jio/app/ts_live_2853.m3u8
+#EXTINF:-1 tvg-chno="159" tvg-language="Tamil" group-title="Tamil",Sonic tamil
+http://servertvhub.site/jio/app/ts_live_290.m3u8
+#EXTINF:-1 tvg-chno="160" tvg-language="Tamil" group-title="Tamil",colors HD TAmil
+http://servertvhub.site/jio/app/ts_live_429.m3u8
+#EXTINF:-1 tvg-chno="161" tvg-language="Tamil" group-title="Tamil",POGO Tamil
+http://servertvhub.site/jio/app/ts_live_542.m3u8
+#EXTINF:-1 tvg-chno="162" tvg-language="Tamil" group-title="Tamil",Nick Tamil
+http://servertvhub.site/jio/app/ts_live_546.m3u8
+#EXTINF:-1 tvg-chno="163" tvg-language="Tamil" group-title="Tamil",Chutti tv tamil
+http://servertvhub.site/jio/app/ts_live_557.m3u8
+#EXTINF:-1 tvg-chno="164" tvg-language="Tamil" group-title="Tamil",Discovery tamil
+http://servertvhub.site/jio/app/ts_live_569.m3u8
+#EXTINF:-1 tvg-chno="165" tvg-language="Tamil" group-title="Tamil",History TV Tamil
+http://servertvhub.site/jio/app/ts_live_577.m3u8
+#EXTINF:-1 tvg-chno="166" tvg-language="Tamil" group-title="Tamil",History TV Tamil
+http://servertvhub.site/jio/app/ts_live_579.m3u8
+#EXTINF:-1 tvg-chno="167" tvg-language="Tamil" group-title="Tamil",Zee Tamil
+http://servertvhub.site/jio/app/ts_live_628.m3u8
+#EXTINF:-1 tvg-chno="168" tvg-language="Tamil" group-title="Tamil",Raj Digital plus tamil
+http://servertvhub.site/jio/app/ts_live_683.m3u8
+#EXTINF:-1 tvg-chno="169" tvg-language="Tamil" group-title="Tamil",Polimer music Tamil
+http://servertvhub.site/jio/app/ts_live_705.m3u8
+#EXTINF:-1 tvg-chno="170" tvg-language="Tamil" group-title="Tamil",Gemini comedy tamil
+http://servertvhub.site/jio/app/ts_live_730.m3u8
+#EXTINF:-1 tvg-chno="171" tvg-language="Tamil" group-title="Tamil",Surya Music Tamil
+http://servertvhub.site/jio/app/ts_live_747.m3u8
+#EXTINF:-1 tvg-chno="172" tvg-language="Tamil" group-title="Tamil",Tunes 6 music tamil
+http://servertvhub.site/jio/app/ts_live_803.m3u8
+#EXTINF:-1 tvg-chno="173" tvg-language="Tamil" group-title="Tamil",Cartoon network tamil
+http://servertvhub.site/jio/app/ts_live_817.m3u8
+#EXTINF:-1 tvg-chno="174" tvg-language="Tamil" group-title="Tamil",BBC Earth HD tamil
+http://servertvhub.site/jio/app/ts_live_821.m3u8
+#EXTINF:-1 tvg-chno="175" tvg-language="Telugu" group-title="Telugu",pogo telugu
+http://servertvhub.site/jio/app/ts_live_1883.m3u8
+#EXTINF:-1 tvg-chno="176" tvg-language="Telugu" group-title="Telugu",ETV Cinema Telugu
+http://servertvhub.site/jio/app/ts_live_252.m3u8
+#EXTINF:-1 tvg-chno="177" tvg-language="Telugu" group-title="Telugu",Star sports 2 Telugu
+http://servertvhub.site/jio/app/ts_live_2852.m3u8
+#EXTINF:-1 tvg-chno="178" tvg-language="Telugu" group-title="Telugu",Animal Planet telugu
+http://servertvhub.site/jio/app/ts_live_3450.m3u8
+#EXTINF:-1 tvg-chno="179" tvg-language="Telugu" group-title="Telugu",Zee Cinema Telugu
+http://servertvhub.site/jio/app/ts_live_413.m3u8
+#EXTINF:-1 tvg-chno="180" tvg-language="Telugu" group-title="Telugu",Nick telugu
+http://servertvhub.site/jio/app/ts_live_543.m3u8
+#EXTINF:-1 tvg-chno="181" tvg-language="Telugu" group-title="Telugu",chutti tv telugu
+http://servertvhub.site/jio/app/ts_live_558.m3u8
+#EXTINF:-1 tvg-chno="182" tvg-language="Telugu" group-title="Telugu",Animal planet Telugu
+http://servertvhub.site/jio/app/ts_live_566.m3u8
+#EXTINF:-1 tvg-chno="183" tvg-language="Telugu" group-title="Telugu",Discovery Telugu
+http://servertvhub.site/jio/app/ts_live_575.m3u8
+#EXTINF:-1 tvg-chno="184" tvg-language="Telugu" group-title="Telugu",Discovery Telugu
+http://servertvhub.site/jio/app/ts_live_576.m3u8
+#EXTINF:-1 tvg-chno="185" tvg-language="Telugu" group-title="Telugu",TV9 Telugu
+http://servertvhub.site/jio/app/ts_live_618.m3u8
+#EXTINF:-1 tvg-chno="186" tvg-language="Malayalam" group-title="Malayalam",Asianet news Malayalam
+http://servertvhub.site/jio/app/ts_live_180.m3u8
+#EXTINF:-1 tvg-chno="187" tvg-language="Malayalam" group-title="Malayalam",POGO Malayalam
+http://servertvhub.site/jio/app/ts_live_3033.m3u8
+#EXTINF:-1 tvg-chno="188" tvg-language="Malayalam" group-title="Malayalam",Jai hind Malayalam news
+http://servertvhub.site/jio/app/ts_live_465.m3u8
+#EXTINF:-1 tvg-chno="189" tvg-language="Malayalam" group-title="Malayalam",Chutti tv malayalm
+http://servertvhub.site/jio/app/ts_live_556.m3u8
+#EXTINF:-1 tvg-chno="190" tvg-language="Malayalam" group-title="Malayalam",Kaumudy malayalm TV
+http://servertvhub.site/jio/app/ts_live_563.m3u8
+#EXTINF:-1 tvg-chno="191" tvg-language="Malayalam" group-title="Malayalam",Flowers Malayalam
+http://servertvhub.site/jio/app/ts_live_634.m3u8
+#EXTINF:-1 tvg-chno="192" tvg-language="Malayalam" group-title="Malayalam",Manorama Malayalam
+http://servertvhub.site/jio/app/ts_live_648.m3u8
+#EXTINF:-1 tvg-chno="193" tvg-language="Malayalam" group-title="Malayalam",Raj news Malayalam
+http://servertvhub.site/jio/app/ts_live_650.m3u8
+#EXTINF:-1 tvg-chno="194" tvg-language="Malayalam" group-title="Malayalam",Kairali Malayal movies
+http://servertvhub.site/jio/app/ts_live_710.m3u8
+#EXTINF:-1 tvg-chno="195" tvg-language="Malayalam" group-title="Malayalam",Amritha Malayalam songs
+http://servertvhub.site/jio/app/ts_live_723.m3u8
+#EXTINF:-1 tvg-chno="196" tvg-language="Malayalam" group-title="Malayalam",we comedy Malayalam
+http://servertvhub.site/jio/app/ts_live_731.m3u8
+#EXTINF:-1 tvg-chno="197" tvg-language="Malayalam" group-title="Malayalam",Raj music malayalm
+http://servertvhub.site/jio/app/ts_live_739.m3u8
+#EXTINF:-1 tvg-chno="198" tvg-language="Malayalam" group-title="Malayalam",Manorama HD Malayalam
+http://servertvhub.site/jio/app/ts_live_844.m3u8
+#EXTINF:-1 tvg-chno="199" tvg-language="Marathi" group-title="Marathi",News 18 marathi
+http://servertvhub.site/jio/app/ts_live_232.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-language="Marathi" group-title="Marathi",POGO Marathi
+http://servertvhub.site/jio/app/ts_live_3034.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-language="Marathi" group-title="Marathi",Z marathi
+http://servertvhub.site/jio/app/ts_live_445.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-language="Marathi" group-title="Marathi",Nick Marathi
+http://servertvhub.site/jio/app/ts_live_545.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-language="Marathi" group-title="Marathi",Discovery Marathi
+http://servertvhub.site/jio/app/ts_live_573.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-language="Marathi" group-title="Marathi",TV9 marathi
+http://servertvhub.site/jio/app/ts_live_617.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-language="Gujarati" group-title="Gujarati",Colors gujarathi
+http://servertvhub.site/jio/app/ts_live_196.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-language="Gujarati" group-title="Gujarati",TV9 Gujarathi
+http://servertvhub.site/jio/app/ts_live_616.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-id="",Toonami Aftermath Movies (540p)
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-id="9XJalwa.in@SD",9X Jalwa (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-id="AllTimeMovies.in@SD",All Time Movies (576p)
+http://103.178.78.151:7505/play/a0pb/index.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="AndpriveHD.in@SD",&prive HD (1080p)
+http://103.167.255.18:8085/play/a0m4/index.m3u8
+#EXTINF:-1 tvg-chno="211" tvg-id="AndTV.in@HD",&TV HD (1080p)
+http://103.167.255.18:8085/play/a0mc/index.m3u8
+#EXTINF:-1 tvg-chno="212" tvg-id="AsianetSuvarnaNews.in@SD",Asianet Suvarna News (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://dashboard.videograph.ai/
+#EXTINF:-1 tvg-chno="213" tvg-id="B4UHitz.in@SD",B4U Hitz (576p)
+http://103.167.255.18:8085/play/a0he/index.m3u8
+#EXTINF:-1 tvg-chno="214" tvg-id="B4UMovies.in@India",B4U Movies
+https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
+#EXTINF:-1 tvg-chno="215" tvg-id="B4UMovies.in@India",B4U Movies (1080p) [Geo-blocked]
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="216" tvg-id="B4UMovies.in@India",B4U Movies India (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#EXTINF:-1 tvg-chno="217" tvg-id="B4UMusic.in@India",B4U Music
+https://mumt04.tangotv.in/B4UMUSIC/index.m3u8
+#EXTINF:-1 tvg-chno="218" tvg-id="B4UMusic.in@India",B4U Music (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 tvg-chno="219" tvg-id="BounceXL.us@SD",Bounce XL (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:-1 tvg-chno="220" tvg-id="CameraSmileTV.us@SD",Camera Smile (480p)
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
+#EXTINF:-1 tvg-chno="221" tvg-id="ChintuTV.in@SD",Chintu TV (576p)
+http://103.140.254.2:3500/live/555.m3u8
+#EXTINF:-1 tvg-chno="222" tvg-id="Colors.in@HD",Colors HD (1080p)
+http://103.167.255.18:8085/play/a0kf/index.m3u8
+#EXTINF:-1 tvg-chno="223" tvg-id="Colors.in@SD",Colors (576p)
+http://103.178.78.151:7505/play/a1sd/index.m3u8
+#EXTINF:-1 tvg-chno="224" tvg-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
+http://103.167.255.18:8085/play/a0kr/index.m3u8
+#EXTINF:-1 tvg-chno="225" tvg-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
+http://103.178.78.151:7505/play/a1c0/index.m3u8
+#EXTINF:-1 tvg-chno="226" tvg-id="ColorsCineplex.in@SD",Colors Cineplex (576p)
+http://103.167.255.18:8085/play/a0km/index.m3u8
+#EXTINF:-1 tvg-chno="227" tvg-id="ColorsSuper.in@SD",Colors Super (1080p)
+http://103.140.254.2:3500/live/785.m3u8
+#EXTINF:-1 tvg-chno="228" tvg-id="ComedyCentral.us@East",Comedy Central US (720p)
+https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-chno="229" tvg-id="CourtTV.us@SD",Court TV (720p)
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 tvg-chno="230" tvg-id="Dangal2.in@SD",Dangal 2 (720p)
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-chno="231" tvg-id="DisneyChannel.in@SD",Disney Channel (576p)
+http://103.167.255.18:8085/play/a0kq/index.m3u8
+#EXTINF:-1 tvg-chno="232" tvg-id="DisneyInternationalHD.in@SD",Disney International HD (1080p)
+http://103.167.255.18:8085/play/a0ld/index.m3u8
+#EXTINF:-1 tvg-chno="233" tvg-id="DisneyJunior.in@SD",Disney Junior (576p)
+http://103.167.255.18:8085/play/a0k7/index.m3u8
+#EXTINF:-1 tvg-chno="234" tvg-id="ElectricNow.us@SD",Electric Now (1080p) [Not 24/7]
+https://elec-en.otteravision.com/elec/en/elec_en.m3u8
+#EXTINF:-1 tvg-chno="235" tvg-id="FanDuelRacing.us@SD",FanDuel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+#EXTINF:-1 tvg-chno="236" tvg-id="FanDuelSportsNetworkDetroit.us@SD",FanDuel Sports Network Detroit
+https://fl7.moveonjoy.com/BALLY_SPORTS_DETROIT/index.m3u8
+#EXTINF:-1 tvg-chno="237" tvg-id="FanDuelTV.us@SD",FanDuel TV (720p)
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
+#EXTINF:-1 tvg-chno="238" tvg-id="FashionFinds.us@SD",Fashion Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+#EXTINF:-1 tvg-chno="239" tvg-id="GlobalFashionChannel.us@SD",Global Fashion Channel (1080p)
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-chno="240" tvg-id="HistoryTV18.in@HD",History TV18 HD (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-chno="241" tvg-id="IONPlus.us@East",ION Plus (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 tvg-chno="242" tvg-id="KaloopyTV.us@SD",Kaloopy TV Hot (720p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
+#EXTINF:-1 tvg-chno="243" tvg-id="MarqueeSportsNetwork.us@SD",Marquee Sports Network
+https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-chno="244" tvg-id="MNX.in@SD",MNX (576p)
+http://103.167.255.18:8085/play/a0oj/index.m3u8
+#EXTINF:-1 tvg-chno="245" tvg-id="MotorTrend.us@SD",Motor Trend
+http://104.255.88.155/motortrend/index.m3u8
+#EXTINF:-1 tvg-chno="246" tvg-id="MoviesNow.in@HD",Movies Now HD (1080p)
+http://103.167.255.18:8085/play/a0lr/index.m3u8
+#EXTINF:-1 tvg-chno="247" tvg-id="MSG.us@SD",MSG (720p)
+https://fl1.moveonjoy.com/MSG/mpegts
+#EXTINF:-1 tvg-chno="248" tvg-id="MusicIndia.in@SD",Music India (720p) [Not 24/7]
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 tvg-chno="249" tvg-id="Mythbusters.us@UK",Mythbusters (1080p)
+https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvoparaodgcw9/Mythbusters_GB.m3u8
+#EXTINF:-1 tvg-chno="250" tvg-id="NationalGeographic.in@HD",National Geographic HD (1080p)
+http://103.178.78.151:7505/play/a12o/index.m3u8
+#EXTINF:-1 tvg-chno="251" tvg-id="NationalGeographicWild.in@HD",National Geographic Wild HD (1080p)
+http://103.167.255.18:8085/play/a0lt/index.m3u8
+#EXTINF:-1 tvg-chno="252" tvg-id="NEWKPOP.us@SD",NEW K-POP (1080p)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="253" tvg-id="Nickelodeon.in@SD",Nickelodeon (576p)
+http://103.178.78.151:7505/play/a0v1/index.m3u8
+#EXTINF:-1 tvg-chno="254" tvg-id="Nickelodeon.us@East",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-chno="255" tvg-id="NickJr.in@SD",Nick Jr. (576p)
+http://103.167.255.18:8085/play/a0kx/index.m3u8
+#EXTINF:-1 tvg-chno="256" tvg-id="NickPlutoTV.us@US",Nick Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&profilesFromStream=true&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291
+#EXTINF:-1 tvg-chno="257" tvg-id="Nicktoons.us@East",NickToons (720p)
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-chno="258" tvg-id="PBSKidsHawaii.us@SD",PBS Kids Hawaii
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+#EXTINF:-1 tvg-chno="259" tvg-id="PeopleAreAwesome.us@SD",People are Awesome
+https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="260" tvg-id="PlutoTVCineAccion.us@US",Pluto TV Cine Accion
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=
+#EXTINF:-1 tvg-chno="261" tvg-id="PlutoTVCineEstelar.us@SpainPlus",Pluto TV Cine Estelar Spain+
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-chno="262" tvg-id="PlutoTVCineEstelar.us@US",Pluto TV Cine Estelar
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=
+#EXTINF:-1 tvg-chno="263" tvg-id="PlutoTVEstrellasdeAccion.us@SD",Pluto TV Estrellas de Accion
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=
+#EXTINF:-1 tvg-chno="264" tvg-id="PowerTV.in@SD",Power TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+#EXTINF:-1 tvg-chno="265" tvg-id="PublicMusic.in@SD",Public Music (720p) [Not 24/7]
+https://cdn-3.pishow.tv/live/441/master.m3u8
+#EXTINF:-1 tvg-chno="266" tvg-id="PublicTV.in@SD",Public TV (720p)
+https://cdn-3.pishow.tv/live/439/master.m3u8
+#EXTINF:-1 tvg-chno="267" tvg-id="RealAmericasVoice.us@SD",Real America's Voice (720p)
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
+#EXTINF:-1 tvg-chno="268" tvg-id="RetroCrush.us@SD",RetroCrush (1080p)
+https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
+#EXTINF:-1 tvg-chno="269" tvg-id="RomedyNow.in@SD",Romedy Now (576p)
+http://103.178.78.151:7505/play/a12t/index.m3u8
+#EXTINF:-1 tvg-chno="270" tvg-id="SankaraTV.in@SD",Sankara TV (576p)
+https://cdn-3.pishow.tv/live/1135/master.m3u8
+#EXTINF:-1 tvg-chno="271" tvg-id="ScientologyNetwork.us@SD",Scientology Network (1080p)
+https://stream6.scientology.org/master.m3u8
+#EXTINF:-1 tvg-chno="272" tvg-id="Sonic.in@SD",Sonic (576p)
+http://103.167.255.18:8085/play/a0nf/index.m3u8
+#EXTINF:-1 tvg-chno="273" tvg-id="SonyBBCEarth.in@HD",Sony BBC Earth HD (1080p)
+http://103.178.78.151:7505/play/a0vu/index.m3u8
+#EXTINF:-1 tvg-chno="274" tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (1080p)
+http://103.178.78.151:7505/play/a0uc/index.m3u8
+#EXTINF:-1 tvg-chno="275" tvg-id="SonyEntertainmentTelevision.in@SD",Sony Entertainment Television (576p)
+http://103.178.78.151:7505/play/a1sa/index.m3u8
+#EXTINF:-1 tvg-chno="276" tvg-id="SonyMax.in@HD",Sony Max HD (1080p)
+http://103.167.255.18:8085/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-chno="277" tvg-id="SonyMax.in@SD",Sony Max (576p)
+http://103.178.78.151:7505/play/a1vx/index.m3u8
+#EXTINF:-1 tvg-chno="278" tvg-id="SonyMax2.in@SD",Sony Max 2 (576p)
+http://103.178.78.151:7505/play/a0uo/index.m3u8
+#EXTINF:-1 tvg-chno="279" tvg-id="SonyPal.in@SD",Sony Pal (576p)
+http://103.178.78.151:7505/play/a1tu/index.m3u8
+#EXTINF:-1 tvg-chno="280" tvg-id="SonySAB.in@HD",Sony SAB HD (1080p)
+http://103.178.78.151:7505/play/a0ul/index.m3u8
+#EXTINF:-1 tvg-chno="281" tvg-id="SonySAB.in@SD",Sony SAB (576p)
+http://103.167.255.18:8085/play/a0k8/index.m3u8
+#EXTINF:-1 tvg-chno="282" tvg-id="SonySportsTen1.in@SD",Sony Sports Ten 1 (576p)
+http://103.178.78.151:7505/play/a1qd/index.m3u8
+#EXTINF:-1 tvg-chno="283" tvg-id="SonySportsTen5.in@SD",Sony Sports Ten 5 (1080p)
+http://103.178.78.151:7505/play/a1qa/index.m3u8
+#EXTINF:-1 tvg-chno="284" tvg-id="SonyWah.in@SD",Sony Wah (576p)
+http://103.178.78.151:7505/play/a1u5/index.m3u8
+#EXTINF:-1 tvg-chno="285" tvg-id="SonyYay.in@SD",Sony Yay! (576p)
+http://103.178.78.151:7505/play/a0ux/index.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-id="StarBharat.in@HD",Star Bharat HD (1080p)
+http://103.178.78.151:7505/play/a1qb/index.m3u8
+#EXTINF:-1 tvg-chno="287" tvg-id="StarBharat.in@HD",Star Bharat HD (1080p)
+http://103.167.255.18:8085/play/a0n9/index.m3u8
+#EXTINF:-1 tvg-chno="288" tvg-id="StarGold2.in@HD",Star Gold 2 HD (1080p)
+http://103.167.255.18:8085/play/a0le/index.m3u8
+#EXTINF:-1 tvg-chno="289" tvg-id="StarGold2.in@SD",Star Gold 2 (576p)
+http://103.178.78.151:7505/play/a0un/index.m3u8
+#EXTINF:-1 tvg-chno="290" tvg-id="StarGoldRomance.in@SD",Star Gold Romance (576p)
+http://103.167.255.18:8085/play/a0nm/index.m3u8
+#EXTINF:-1 tvg-chno="291" tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
+http://103.167.255.18:8085/play/a0m9/index.m3u8
+#EXTINF:-1 tvg-chno="292" tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
+http://103.178.78.151:7505/play/a0vv/index.m3u8
+#EXTINF:-1 tvg-chno="293" tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
+http://103.167.255.18:8085/play/a0nd/index.m3u8
+#EXTINF:-1 tvg-chno="294" tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
+http://103.178.78.151:7505/play/a1ge/index.m3u8
+#EXTINF:-1 tvg-chno="295" tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
+http://103.178.78.151:7505/play/a1gd/index.m3u8
+#EXTINF:-1 tvg-chno="296" tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
+http://103.178.78.151:7505/play/a0uh/index.m3u8
+#EXTINF:-1 tvg-chno="297" tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
+http://103.167.255.18:8085/play/a0ke/index.m3u8
+#EXTINF:-1 tvg-chno="298" tvg-id="StarPlus.in@SD",StarPlus (576p)
+http://103.167.255.18:8085/play/a0k5/index.m3u8
+#EXTINF:-1 tvg-chno="299" tvg-id="StarSports1.in@HD",Star Sports 1 HD (1080p)
+http://103.178.78.151:7505/play/a0ui/index.m3u8
+#EXTINF:-1 tvg-chno="300" tvg-id="StarSports1.in@SD",Star Sports 1 (576p)
+http://103.167.255.18:8085/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-chno="301" tvg-id="StarSports2.in@HD",Star Sports 2 HD (1080p)
+http://103.167.255.18:8085/play/a0jj/index.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-id="StarSports2.in@SD",Star Sports 2 (576p)
+http://103.167.255.18:8085/play/a0jt/index.m3u8
+#EXTINF:-1 tvg-chno="303" tvg-id="StarSports3.in@SD",Star Sports 3 (576p)
+http://103.167.255.18:8085/play/a0jm/index.m3u8
+#EXTINF:-1 tvg-chno="304" tvg-id="StarSportsSelect1.in@HD",Star Sports Select 1 HD (1080p)
+http://103.178.78.151:7505/play/a0w8/index.m3u8
+#EXTINF:-1 tvg-chno="305" tvg-id="StarSportsSelect2.in@HD",Star Sports Select 2 HD (1080p)
+http://103.178.78.151:7505/play/a0w9/index.m3u8
+#EXTINF:-1 tvg-chno="306" tvg-id="StarUtsavMovies.in@SD",Star Utsav Movies (576p)
+http://103.78.149.54:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-chno="307" tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-chno="308" tvg-id="SuperHungama.in@SD",Super Hungama (576p)
+http://103.167.255.18:8085/play/a0lk/index.m3u8
+#EXTINF:-1 tvg-chno="309" tvg-id="TataSkyBollywoodPremiere.in@SD",Tata Sky Bollywood Premiere (1080p)
+http://103.178.78.151:7505/play/a1vu/index.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-id="TheCountryNetwork.us@SD",The Country Network (1080p)
+https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="311" tvg-id="TropicalMusicTV.us@SD",Tropical Music TV (720p)
+https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
+#EXTINF:-1 tvg-chno="312" tvg-id="TSTV.us@SD",TSTV (720p)
+https://reflector.watchtstv.com/hls/livestream.m3u8
+#EXTINF:-1 tvg-chno="313" tvg-id="UdayaComedy.in@SD",Udaya Comedy (540p)
+http://103.140.254.2:3500/live/733.m3u8
+#EXTINF:-1 tvg-chno="314" tvg-id="UdayaMovies.in@SD",Udaya Movies (360p)
+http://103.140.254.2:3500/live/678.m3u8
+#EXTINF:-1 tvg-chno="315" tvg-id="UdayaMusic.in@SD",Udaya Music (288p) [Not 24/7]
+http://103.140.254.2:3500/live/744.m3u8
+#EXTINF:-1 tvg-chno="316" tvg-id="UdayaMusic.in@SD",Udaya Music (576p)
+http://103.167.255.18:8085/play/a0on/index.m3u8
+#EXTINF:-1 tvg-chno="317" tvg-id="VevoPop.us@SD",Vevo Pop (1080p)
+https://jmp2.uk/stvp-GBBC19000017V
+#EXTINF:-1 tvg-chno="318" tvg-id="WCBSDT1.us@SD",WCBS-DT1 (720p)
+https://fl1.moveonjoy.com/CBS/index.m3u8
+#EXTINF:-1 tvg-chno="319" tvg-id="WCIUDT5.us@SD",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:-1 tvg-chno="320" tvg-id="WeatherSpy.in@SD",Weatherspy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="321" tvg-id="WildEarth.uk@SD",WildEarth (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-chno="322" tvg-id="WKRGDT1.us@SD",WKRG-DT1 (720p)
+http://143.244.60.30/AL_MOBILE_CBS/index.m3u8
+#EXTINF:-1 tvg-chno="323" tvg-id="YTATV.us@SD",YTA TV
+https://yta.unitedteleports.tv/hls/YTA.m3u8
+#EXTINF:-1 tvg-chno="324" tvg-id="ZeeBollywood.in@SD",Zee Bollywood (576p)
+http://103.167.255.18:8085/play/a0ne/index.m3u8
+#EXTINF:-1 tvg-chno="325" tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
+http://103.178.78.151:7505/play/a0wb/index.m3u8
+#EXTINF:-1 tvg-chno="326" tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
+http://103.167.255.18:8085/play/a0l1/index.m3u8
+#EXTINF:-1 tvg-chno="327" tvg-id="ZeeClassic.in@SD",Zee Classic (576p)
+http://103.178.78.151:7505/play/a16r/index.m3u8
+#EXTINF:-1 tvg-chno="328" tvg-id="ZeeSouthFlix.in@HD",Zee South Flix (1080p)
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-chno="329" tvg-id="ZeeTV.in@HD",Zee TV HD (1080p)
+http://103.167.255.18:8085/play/a0l6/index.m3u8
+#EXTINF:-1 tvg-chno="330" tvg-id="ZeeTV.in@SD",Zee TV (576p)
+http://103.167.255.18:8085/play/a0k9/index.m3u8
+#EXTINF:-1 tvg-chno="331" tvg-id="ZeeZest.in@HD",Zee Zest HD (1080p)
+http://103.167.255.18:8085/play/a0lm/index.m3u8
+#EXTINF:-1 tvg-chno="332" tvg-id="Zoom.in@SD",Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
